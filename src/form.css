@@ -1,0 +1,93 @@
+
+.header_div{
+    text-align: center;
+    
+  }
+  
+  .header_div h1 {
+    text-align: center;
+    color: blue;
+  }
+  
+  .form_div{
+  
+    position: absolute;
+    left: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: white;
+  }
+  
+  .form_div label {
+    color: blueviolet;
+  }
+  
+  .form_div input {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  .form_div button{
+    background-color: blue;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .nav_div {
+    height: 10rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: blue;
+  }
+  
+  .loginsign_div {
+    text-align: center;
+    margin:800px 500px 0px 500px;
+  }
+  .registersign_div{
+    text-align: center;
+    margin:400px 500px 0px 500px;
+  }
+  
+  .error {
+    text-align: center;
+    margin: 400px 500px 500px 500px ;
+  }
+
+.dashboard_div{
+  margin-left:1500px;
+  font-size: 18px;
+}
+
+.allEmployeeList_div{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.allEmployeeList_div button{
+  font-size: 18px;
+  color: blue;
+  border: blue 2px solid;
+}
+
+.search_div input{
+  margin-left: 0px;
+  font-size: 18px;
+  border: 2px solid blue;
+}
+.search_div button{
+  margin-left: 0px;
+  font-size: 18px;
+  color: blue;
+  border: blue 2px solid;
+  
+}
